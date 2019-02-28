@@ -1,3 +1,5 @@
+// DOM = Document Object Model 
+
 const cities = [
     "SEATTKE",
     "SAN FRANCISCO",
@@ -13,3 +15,5 @@ cities.forEach(function(i) {
     
 });
 console.log(numberOfTimesRan)
+
+var x = document
