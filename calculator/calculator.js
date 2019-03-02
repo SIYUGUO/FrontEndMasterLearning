@@ -55,6 +55,10 @@ function handleSymbol(value) {
 
 }
 
+function handleMath(value) {
+    const intBuffer = parseInt(buffer);
+}
+
 function rerender() {
     screen.innerText = buffer;
 }
